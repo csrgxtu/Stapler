@@ -36,8 +36,8 @@ Output #10: 7
 
 
 ### rules
-* For the solution, we request that you use Java, Ruby, C#, Python, Clojure, Scala or JavaScript. ** Python **
-* There must be a way to supply the application with the input data via text file ** read input data from text file **
-* The application must run ** sure it will run **
-* You should provide sufficient evidence that your solution is complete by indicating that it works correctly against the supplied test data ** write test code **
+* For the solution, we request that you use Java, Ruby, C#, Python, Clojure, Scala or JavaScript. **Python**
+* There must be a way to supply the application with the input data via text file **read input data from text file**
+* The application must run **sure it will run**
+* You should provide sufficient evidence that your solution is complete by indicating that it works correctly against the supplied test data **write test code**
 * Please use the URL at the bottom of this email to submit your code.
